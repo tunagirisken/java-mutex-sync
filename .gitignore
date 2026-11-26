@@ -1,0 +1,9 @@
+# Derleme ciktilari
+out/
+*.class
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+.DS_Store
